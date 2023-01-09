@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Stealthdark/news-homepage)
-- Live Site URL: [Add live site URL here](https://stealthdark.github.io/news-homepage/)
+- Solution URL: [Solution](https://github.com/Stealthdark/news-homepage)
+- Live Site URL: [Live Preview](https://stealthdark.github.io/news-homepage/)
 
 ## My process
 
